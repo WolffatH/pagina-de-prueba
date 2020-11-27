@@ -1,0 +1,20 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: url(../imagenes/4.jpg);
+	background: relative;
+
+}
+table td .imagen{
+	padding: 100;
+	background: url(../imagenes/wolffath.png) no-repeat left center ;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: 80%;
+}
+table, th, td{
+	border: 1px solid red;
+}
